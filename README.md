@@ -92,7 +92,7 @@ Designing adaptive layouts with CSS Flexbox and Grid
 
 Thanushkumar
 📧 Email: [sanjays68731@gmail.com]
-🌐 GitHub: -design
+🌐 GitHub: sanjays68731-design https://github.com/sanjays68731-coder/Sanjay-.git
 
 
 ---
